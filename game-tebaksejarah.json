@@ -1,107 +1,107 @@
 [
  {
-  "index" : 0 ,
-  "soal" : "Apa yang melatarbelakangi munculnya dwikora?" ,
+  "index" : 0,
+  "soal" : "Apa yang melatarbelakangi munculnya dwikora?",
   "jawaban" : "Adanya tuntutan untuk pembubaran PKI"
   },
   {
-  "index" : 1 ,
-  "soal" : "Kapan negara Jepang mengaku kalah dan menyerah pada sekutu?" ,
+  "index" : 1,
+  "soal" : "Kapan negara Jepang mengaku kalah dan menyerah pada sekutu?",
   "jawaban" : "14 Agustus 1945"
   },
   {
-  "index" : 2 ,
-  "soal" : "Siapa pemimpin dari Dokuritzu Junbi Coosakai?" ,
+  "index" : 2,
+  "soal" : "Siapa pemimpin dari Dokuritzu Junbi Coosakai?",
   "jawaban" : "Dr. Rajiman Wedyodiningrat"
   },
   {
-  "index" : 3 ,
-  "soal" : "Siapa yang hanya memahami Bahasa Sansekerta di dalam Kitab Weda?" ,
+  "index" : 3,
+  "soal" : "Siapa yang hanya memahami Bahasa Sansekerta di dalam Kitab Weda?",
   "jawaban" : "Kaum Brahmana"
   },
   {
-  "index" : 4 ,
-  "soal" : "Siapa yang menemukan sejarah?" ,
+  "index" : 4,
+  "soal" : "Siapa yang menemukan sejarah?",
   "jawaban" : "Orang Yunani"
   },
   {
-  "index" : 5 ,
-  "soal" : "Manakah dinasti tertua yang masih berkuasa?" ,
+  "index" : 5,
+  "soal" : "Manakah dinasti tertua yang masih berkuasa?",
   "jawaban" : "jepang"
   },
   {
-  "index" : 6 ,
-  "soal" : "Selama acara apa, Korea dipisahkan menjadi 2 negara?" ,
+  "index" : 6,
+  "soal" : "Selama acara apa, Korea dipisahkan menjadi 2 negara?",
   "jawaban" : "Perang Dunia II"
   },
   {
-  "index" : 7 ,
-  "soal" : "Setelah Lenin, siapa yang resmi menjadi pemimpin Uni Soviet?" ,
+  "index" : 7,
+  "soal" : "Setelah Lenin, siapa yang resmi menjadi pemimpin Uni Soviet?",
   "jawaban" : "Joseph Stalin"
   },
   {
-  "index" : 8 ,
-  "soal" : "Kapan Perang Dingin terjadi?" ,
+  "index" : 8,
+  "soal" : "Kapan Perang Dingin terjadi?",
   "jawaban" : "1947-1948"
   },
   {
-  "index" : 9 ,
-  "soal" : "Surat kabar pertama di dunia dimulai oleh?" ,
+  "index" : 9,
+  "soal" : "Surat kabar pertama di dunia dimulai oleh?",
   "jawaban" : "Jerman"
   },
   {
-  "index" : 10 ,
-  "soal" : "Di Roma kuno ada berapa hari dalam seminggu?" ,
+  "index" : 10,
+  "soal" : "Di Roma kuno ada berapa hari dalam seminggu?",
   "jawaban" : "8 hari"
   },
   {
-  "index" : 11 ,
-  "soal" : "Mona Lisa adalah lukisan terkenal karya?" ,
+  "index" : 11,
+  "soal" : "Mona Lisa adalah lukisan terkenal karya?",
   "jawaban" : "Leonardo Davinci"
   },
   {
-  "index" : 12 ,
-  "soal" : "Catatan sejarah pertama cina adalah" ,
+  "index" : 12,
+  "soal" : "Catatan sejarah pertama cina adalah",
   "jawaban" : "dinasti Shang"
   },
   {
-  "index" : 13 ,
-  "soal" : "Di negara mana Albert Einstein tinggal sebelum pindah ke Amerika Serikat?" ,
+  "index" : 13,
+  "soal" : "Di negara mana Albert Einstein tinggal sebelum pindah ke Amerika Serikat?",
   "jawaban" : "jerman"
   },
   {
-  "index" : 14 ,
-  "soal" : "Siapa penguasa pertama Kekaisaran Mongol?" ,
+  "index" : 14,
+  "soal" : "Siapa penguasa pertama Kekaisaran Mongol?",
   "jawaban" : "Jenghis Khan"
   },
   {
-  "index" : 15 ,
-  "soal" : "Siapa yang dikenal sebagai Bapak Kedokteran?" ,
+  "index" : 15,
+  "soal" : "Siapa yang dikenal sebagai Bapak Kedokteran?",
   "jawaban" : "Hippocrates"
   },
   {
-  "index" : 16 ,
-  "soal" : "Apa yang orang Romawi sebut Skotlandia?" ,
+  "index" : 16,
+  "soal" : "Apa yang orang Romawi sebut Skotlandia?",
   "jawaban" : "Kaledonia"
   },
   {
-  "index" : 17 ,
-  "soal" : "Negara mana yang memulai pandemi Covid-19?" ,
+  "index" : 17,
+  "soal" : "Negara mana yang memulai pandemi Covid-19?",
   "jawaban" : "Cina"
   },
   {
-  "index" : 18 ,
-  "soal" : "Siapa penulis Harry Potter?" ,
+  "index" : 18,
+  "soal" : "Siapa penulis Harry Potter?",
   "jawaban" : "JK Rowling"
   },
   {
-  "index" : 19 ,
-  "soal" : "Siapa yang membocorkan informasi rahasia dari Badan Keamanan Nasional (NSA) pada tahun 2013?" ,
+  "index" : 19,
+  "soal" : "Siapa yang membocorkan informasi rahasia dari Badan Keamanan Nasional (NSA) pada tahun 2013?",
   "jawaban" : "Edward Snowden"
   },
   {
-  "index" : 20 ,
-  "soal" : "Kapan mobil listrik pertama kali diperkenalkan?" ,
+  "index" : 20,
+  "soal" : "Kapan mobil listrik pertama kali diperkenalkan?",
   "jawaban" : "1870-an"
   }
  ]
